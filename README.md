@@ -1,7 +1,3 @@
-# excercice-repo
-Repo made for excercice
+Courses from the main program in SoftUni
 
-new changes
-Hello again new changes on the new branch
-
-from the master branch
+ SoftUni logo
